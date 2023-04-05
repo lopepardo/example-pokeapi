@@ -15,7 +15,7 @@ La aplicación cuenta con las siguientes funcionalidades:
 El proyecto ha sido desarrollado utilizando las siguientes tecnologías:
 
 - Vue.js: para la implementación del frontend de la aplicación.
-- Axios: para la realización de peticiones a la Pokeapi.
+- API Fetch: para la realización de peticiones a la Pokeapi.
 - Pokeapi: para la obtención de información sobre los Pokemon's.
 - GitHub Pages: para alojar la aplicación en línea.
 
